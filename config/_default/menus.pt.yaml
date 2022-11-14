@@ -4,12 +4,15 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Experiência
-    url: '#experience'
+  - name: Educação e Experiência
+    url: '#education'
     weight: 40
+  - name: Publicações
+    url: '#publications'
+    weight: 50
   - name: Contato
     url: '#contact'
-    weight: 50
+    weight: 60
   - name: GitHub
     url: 'https://github.com/joseoliveirajr'
     weight: 60

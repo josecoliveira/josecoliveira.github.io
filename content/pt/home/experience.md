@@ -22,11 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Monitor
+    company: 'Computer Science Department, University of Minnesota Duluth'
+    company_url: 'https://www.d.umn.edu/'
+    location: 'Duluth, Minnesota, Estados Unidos'
+    date_start: '2022-08-22'
+    description: |-
+      Disciplinas:
+      - Ciência da Computação I: Programação Básica com C++. 2022/2.
+      - Inteligência Artificial. 2022/2. 
   - title: Assistente de Pesquisa
     company: 'Computer Science Department, University of Minnesota Duluth'
     company_url: 'https://www.d.umn.edu/'
     location: 'Duluth, Minnesota, Estados Unidos'
     date_start: '2021-03-10'
+    date_end: '2022-05-22'
     description: >-
       Trabalhando no desenvolvimento de modelos formais de redes sociais e
       implementação desses modelos, com foco no estudo da polarização de grupos.
