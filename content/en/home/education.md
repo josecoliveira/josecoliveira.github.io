@@ -28,7 +28,7 @@ experience:
     location: 'Duluth, Minnesota, United States'
     date_start: '2021-08-01'
     description: |-
-      - GPA: 3.9/4 as in Spring 2022
+      - GPA: 3.9/4 as in Fall 2023
       - Advisor: Dr. Sophia Knight. [sknight@d.umn.edu](sknight@d.umn.edu)
       - Research project: Subjective Logic as a Model for Social Networks.
       - Fully funded as a research assistant.
