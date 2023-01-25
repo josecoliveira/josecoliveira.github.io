@@ -41,7 +41,7 @@ experience:
     date_start: '2015-08-01'
     date_end: '2020-11-30'
     description: |-
-      - Advisor: Dr. Mário S. Alvim. [msalvim@dcc.ufmg.br]msalvim@dcc.ufmg.br)
+      - Advisor: Dr. Mário S. Alvim. [msalvim@dcc.ufmg.br](msalvim@dcc.ufmg.br)
       - Final project: Formalization and verification of sorting algorithms using the Coq proof assistant.
       - Coursework: Theory of Computation, Linear Optimization, Information Theory, Graph Theory, Data Science, Human Centered Machine Learning, Quantum Computing, Game Theory, Logic Programming.
       - Coding experience: C, C++, Python, Java, SQL, Coq.

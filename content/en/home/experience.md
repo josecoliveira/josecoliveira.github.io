@@ -32,16 +32,19 @@ experience:
 
       - Computer Science I: Basic programming with C++. Fall 2022.
       
-      - Artificial Intelligence. Fall 2022. 
+      - Artificial Intelligence. Fall 2022 and Spring 2023.
+
+      - Automata and Formal Languages. Spring 2023.
   - title: Research Assistant
     company: 'Computer Science Department, University of Minnesota Duluth'
     company_url: 'https://www.d.umn.edu/'
     location: 'Duluth, Minnesota, United States'
-    date_start: '2021-03-10'
+    date_start: '2021-08-16'
     date_end: '2022-05-22'
     description: >-
-      Working on developing formal models for social networks and implementing
-      these models, with a focus on the study of group polarization.
+      Working on formal models to understand change of opinion and group polarization in Social Networks.
+
+      Keywords: Social Networks, Subjective Logic, Trust-discount, Belief Fusion
   - title: Full-Stack Developer with C# and Angular
     company: Most Specialist Technologies
     company_url: 'https://most.com.br/'

@@ -77,4 +77,4 @@ email: "josecarlosdeoliveirajr@gmail.com"
 # - Visitors
 ---
 
-MS student in Computer Science and research assistant at University of Minnesota Duluth. Currently working with opinion, polarization and consensus in social networks with formal models and subjective logic.
+MS student in Computer Science and teaching assistant at University of Minnesota Duluth. Currently working with opinion, polarization and consensus in social networks with formal models and subjective logic.
