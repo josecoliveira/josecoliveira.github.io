@@ -20,11 +20,11 @@ content:
   phone: ''
   address:
     street: ''
-    city: Duluth
-    region: MN
+    city: L'Aquila
+    region: AQ
     postcode: ''
-    country: United States
-    country_code: US
+    country: Italy
+    country_code: IT
   coordinates:
     latitude: ''
     longitude: ''

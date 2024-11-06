@@ -27,6 +27,7 @@ experience:
     company_url: 'https://www.d.umn.edu/'
     location: 'Duluth, Minnesota, United States'
     date_start: '2022-08-22'
+    date_end: '2024-04-25'
     description: >-
       Classes
 
@@ -34,7 +35,9 @@ experience:
       
       - Artificial Intelligence. Fall 2022 and Spring 2023.
 
-      - Automata and Formal Languages. Spring 2023.
+      - Automata and Formal Languages. Spring 2023, Fall 2023, and Spring 2024.
+
+      - Advanced Theory of Computation. Fall 2023.
   - title: Research Assistant
     company: 'Computer Science Department, University of Minnesota Duluth'
     company_url: 'https://www.d.umn.edu/'

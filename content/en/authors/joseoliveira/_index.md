@@ -10,27 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Student of MS in Computer Science
+role: PhD in Computer Science student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Minnesota Duluth
-  url: "https://d.umn.edu/"
+- name: Gran Sasso Science Institute
+  url: "https://cs.gssi.it/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Student of MS in Computer Science from UMD.
+bio: PhD in Computer Science from GSSI
 
 interests:
-- Computational Logic
-- Proof Assistants
-- Functional Programming
-- Logic Programming
+- Multi-agent systems
+- Modal Logic
+- Proof assistants
+- Functional programming
 
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: Gran Sasso Science Institute (GSSI)
+    year: 2024 - Current
   - course: MS in Computer Science
-    institution: University of Minnesota Duluth
-    year: 2021 - Current
+    institution: University of Minnesota Duluth (UMD)
+    year: 2021 - 2024
   - course: BS in Computer Science
     institution: Universidade Federal de Minas Gerais (UFMG)
     year: 2015 - 2020
@@ -60,7 +63,7 @@ social:
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/joseoliveirajr
+  link: https://github.com/josecoliveira
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jcarlosoliveirajr/
@@ -77,4 +80,4 @@ email: "josecarlosdeoliveirajr@gmail.com"
 # - Visitors
 ---
 
-MS student in Computer Science and teaching assistant at University of Minnesota Duluth. Currently working with opinion, polarization and consensus in social networks with formal models and subjective logic.
+PhD student in Computer Science at Gran Sasso Science Institute. Currently working with opinion, polarization and consensus in social networks with formal models and subjective logic.

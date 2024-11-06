@@ -22,17 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: 'PhD in Computer Science'
+    company: 'Gran Sasso Science Institute'
+    company_url: 'https://cs.gssi.it/'
+    location: 'L'Aquila, AQ, Italy'
+    date_start: '2024-11-01'
   - title: MS in Computer Science
     company: 'University of Minnesota Duluth'
     company_url: 'https://www.d.umn.edu/'
     location: 'Duluth, Minnesota, United States'
     date_start: '2021-08-01'
+    date_end: '2024-08-30
     description: |-
-      - GPA: 3.9/4 as in Fall 2023
+      - GPA: 3.9/4
       - Advisor: Dr. Sophia Knight. [sknight@d.umn.edu](sknight@d.umn.edu)
       - Research project: Subjective Logic as a Model for Social Networks.
-      - Fully funded as a research assistant.
-      - Coursework: Theory of Computation, Algorithms, Data Strucures,Artificial Intelligence, Modeling with Dynamic Systems, Modal Logic.
+      - Funded as a research assistant.
+      - Coursework: Theory of Computation, Algorithms, Data Strucures, Artificial Intelligence, Modeling with Dynamic Systems, Modal Logic.
       - Coding experience: C++, Python.
   - title: B.S. in Computer Science
     company: 'Federal University of Minas Gerais'
