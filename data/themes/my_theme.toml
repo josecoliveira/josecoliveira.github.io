@@ -3,12 +3,12 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#409664"
+  primary = "#DD1A1E"
 
   # Menu
   menu_primary = "#fff"
   menu_text = "#34495e"
-  menu_text_active = "#409664"
+  menu_text_active = "#DD1A1E"
   menu_title = "#2b2b2b"
 
   # Home sections

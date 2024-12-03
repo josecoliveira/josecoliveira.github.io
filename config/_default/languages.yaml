@@ -1,19 +1,12 @@
 # Languages
 #   Create a section for each of your site's languages.
-#   Documentation: https://wowchemy.com/docs/guide/language/
+#   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content\en
-
-pt:
-  languageCode: pt-br
-  contentDir: content\pt
-  params:
-    description: 'Estudante de Mestrado em Ciência da Computação na UFMG'
-    address_format: 'pt-br'
+  #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
