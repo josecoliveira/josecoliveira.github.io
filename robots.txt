@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://joseoliveirajr.github.io/sitemap.xml
