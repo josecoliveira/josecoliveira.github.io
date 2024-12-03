@@ -4,7 +4,8 @@ authors:
   - josecoliveira
 
 date: '2024-08-30'
-publication_type: ['thesis']
+publication_types: ['thesis']
+genre: 'Master'
 
 publication: University of Minnesota
 
@@ -12,7 +13,7 @@ abstract: Recently, social networks have begun to influence every aspect of our 
 
 featured: true
 
-url_pdf: ''
+url_pdf: 'https://www.dropbox.com/scl/fi/rg9krjcv3rthzzi0lue98/Jos-C.-Oliveira-Quantitative-Models-for-Social-Networks.pdf?rlkey=rnn94lv4avmr0cumtcnqjuq7j&st=4doj3qj3&dl=0'
 url_code: ''
 url_dataset: ''
 url_poster: ''

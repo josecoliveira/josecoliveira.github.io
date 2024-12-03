@@ -25,7 +25,7 @@ experience:
   - title: 'PhD in Computer Science'
     company: 'Gran Sasso Science Institute'
     company_url: 'https://cs.gssi.it/'
-    location: "LAquila, Italy"
+    location: "L'Aquila, Italy"
     date_start: '2024-11-01'
   - title: MS in Computer Science
     company: 'University of Minnesota Duluth'
@@ -38,6 +38,7 @@ experience:
       - Advisor: Dr. Sophia Knight. [sknight@d.umn.edu](sknight@d.umn.edu)
       - Research project: Subjective Logic as a Model for Social Networks.
       - Funded as a research assistant.
+      - Awarded Outstanding Graduate Teaching Assistant in Computer Science in 2024.
       - Coursework: Theory of Computation, Algorithms, Data Strucures, Artificial Intelligence, Modeling with Dynamic Systems, Modal Logic.
       - Coding experience: C++, Python.
   - title: B.S. in Computer Science

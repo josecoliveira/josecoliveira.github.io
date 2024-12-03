@@ -21,10 +21,11 @@ organizations:
 bio: PhD in Computer Science from GSSI
 
 interests:
-- Multi-agent systems
-- Modal Logic
-- Proof assistants
-- Functional programming
+  - Multi-agent systems
+  - Modal Logic
+  - Model checking
+  - Proof assistants
+  - Logic programming
 
 education:
   courses:
@@ -46,9 +47,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: cv
-  icon_pack: ai
-  link: https://github.com/joseoliveirajr/resume/raw/master/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: https://github.com/joseoliveirajr/resume/raw/master/resume.pdf
 # - icon: lattes
 #   icon_pack: ai
 #   link: http://lattes.cnpq.br/7703877694484398
