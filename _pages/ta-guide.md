@@ -6,7 +6,7 @@ author_profile: true
 description: "A practical guide for new teaching assistants (TAs) in Automata & Formal Languages: grading workflows, office hours strategies, and academic integrity policies."
 ---
 
-This is a pratical guide for new teaching assistants (TAs) in the course *Automata & Formal Languages*. It covers grading workflows, office hours strategies, and academic integrity policies. It is based on my experience as a Graduate Teaching Assistant at the [University of Minnesota Duluth](/teaching/). The goal is to maintain high academic standards, ensure student comprehension, and maintain integrity and transparency during the course. I am also very inspired by [Mário S. Alvim's Teaching Principles](https://msalvimjr.github.io/webpage-dcc/faqs/teaching-grading/).
+This is a pratical guide for new teaching assistants (TAs) in the course *Automata & Formal Languages*. It covers grading workflows, office hours strategies, and academic integrity policies. It is based on my experience as a Graduate Teaching Assistant at the [University of Minnesota Duluth](/teaching/). The goal is to maintain high academic standards, ensure student comprehension, and maintain integrity and transparency during the course. It is also inspired by [Mário S. Alvim's Teaching Principles](https://msalvimjr.github.io/webpage-dcc/faqs/teaching-grading/).
 
 ---
 
