@@ -73,6 +73,12 @@ The site is fully built with real content, configured for GitHub Pages, and runn
 - **Deploy steps**: Push to `main` → workflow builds & deploys. In repo Settings → Pages, set **Source: GitHub Actions**.
 - **Sass warnings**: Dart Sass prints deprecation warnings from the Minimal Mistakes theme's Sass (`@import`, `mix()`, etc.). Harmless — CSS builds correctly. (Optional future cleanup: silence or update theme Sass.)
 
+### Published (2026-07-31)
+
+- Pushed to `josecoliveira/josecoliveira.github.io` (`main`), **preserving the old HugoBlox history** below the replacement commit.
+- Repo was not a git repo before; `git init -b main` + remote added.
+- **Action needed**: In repo Settings → Pages → Source, select **GitHub Actions** (currently set to a branch). Then re-run the workflow (or push) to deploy.
+
 #### Notes
 - Profile picture was copied from old HugoBlox site; consider a fresh high-quality headshot.
 - Feature row / splash images are intentionally not used (clean text-based layout).

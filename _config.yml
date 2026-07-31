@@ -3,6 +3,7 @@ title: José C. Oliveira
 name: José C. Oliveira
 description: >-
   Ph.D. student in Computer Science at Gran Sasso Science Institute. Currently with automated ontology repair in description logics. Also working with opinion dynamics in multi-agent systems.
+title_separator: "|" # e.g. "Page Title | José C. Oliveira"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://josecoliveira.github.io" # the base hostname & protocol for your site
 github_username: josecoliveira
