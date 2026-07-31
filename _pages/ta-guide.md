@@ -58,7 +58,7 @@ Every student must be able to explain their submitted answers in person. If a su
 You can be surprised with evidence of unoriginal work. You need to respond according to its source:
 
 * **Internet & External Sources:** Students must explicitly cite any external source used to solve a problem. If you discover an unreferenced solution copied from an external source, assign a grade of 0 and request an in-person explanation during office hours.
-* **Peer-to-Peer Copying:** If you notice identical idiosyncrasies—such as identical non-standard layouts or unique, highly specific errors—shared between two or more students, **report it to the instructor immediately**. Do not attempt to resolve peer-to-peer copying cases on your own and forget about it. The instructor and the department head will handle the situation. If the student try to reach you to discuss the situation, politely redirect them to the instructor.
+* **Peer-to-Peer Copying:** If you notice identical idiosyncrasies—such as identical non-standard layouts or unique, highly specific errors—shared between two or more students, **report it to the instructor immediately** and forget about it. Do not attempt to resolve peer-to-peer copying cases on your own. The instructor and the department head will handle the situation. If the student try to reach you to discuss the situation, politely redirect them to the instructor.
 
 ### 3. Canvas Security & Submission Verification
 
