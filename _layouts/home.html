@@ -1,0 +1,144 @@
+---
+layout: archive
+---
+
+<style>
+  :root {
+    --accent: #ffd447;
+  }
+
+  .home-section {
+    margin-bottom: 1.75rem;
+  }
+
+  .home-title {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 1.50rem;
+    margin: 0 0 0.5rem 0;
+  }
+
+  .home-title span {
+    font-weight: 600;
+  }
+
+
+
+  .accent { color: var(--accent); }
+
+  .intro {
+    max-width: 60rem;
+    line-height: 1.7;
+    font-size: 0.98rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .simple-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .simple-item {
+    display: flex;
+    gap: 0.6rem;
+    padding: 0.2rem 0;
+    font-size: 0.95rem;
+  }
+
+  .simple-date {
+    min-width: 6.2rem;
+    font-variant-numeric: tabular-nums;
+    font-size: 0.82rem;
+    flex-shrink: 0;
+    margin-top: 0.1rem;
+  }
+
+  .simple-main {
+    flex: 1;
+  }
+
+  .item-title a,
+  .project-title a {
+    text-decoration: none;
+  }
+
+  .item-title a:hover,
+  .project-title a:hover {
+    text-decoration: underline;
+  }
+
+  .item-meta {
+    font-size: 0.86rem;
+  }
+
+  .item-meta em {
+    font-style: italic;
+  }
+
+  .project-desc {
+    font-size: 0.9rem;
+  }
+</style>
+
+{{ content }}
+
+<!-- ========= Intro / About ========= -->
+<section class="home-section">
+  <h2 class="home-title">About</h2>
+  <div class="intro">
+    {{ site.description | markdownify }}
+  </div>
+</section>
+
+<!-- ========= Publications ========= -->
+<section class="home-section">
+  <h2 class="home-title">Publications</h2>
+
+  <ul class="simple-list">
+    {% assign pubs = site.publications | sort: 'date' | reverse %}
+    {% for pub in pubs %}
+      <li class="simple-item">
+        <span class="simple-date">
+          {{ pub.date | date: "%b %Y" }}
+        </span>
+        <div class="simple-main">
+          <div class="item-title">
+            <a href="{{ pub.url | relative_url }}">{{ pub.title }}</a>
+          </div>
+          {% if pub.authors %}
+            <div class="item-meta">{{ pub.authors }}</div>
+          {% endif %}
+          {% if pub.venue %}
+            <div class="item-meta"><em>{{ pub.venue }}</em></div>
+          {% endif %}
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<!-- ========= Projects ========= -->
+<section class="home-section">
+  <h2 class="home-title">Projects</h2>
+
+  <ul class="simple-list">
+    {% assign projects = site.projects | sort: 'date' | reverse %}
+    {% for project in projects %}
+      <li class="simple-item">
+        <span class="simple-date">
+          {{ project.date | date: "%b %Y" }}
+        </span>
+        <div class="simple-main">
+          <div class="project-title">
+            <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
+          </div>
+          {% if project.description %}
+            <div class="project-desc">{{ project.description }}</div>
+          {% endif %}
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</section>

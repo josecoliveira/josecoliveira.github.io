@@ -1,0 +1,136 @@
+# Site settings
+title: José C. Oliveira
+name: José C. Oliveira
+description: >-
+  Ph.D. student in Computer Science at Gran Sasso Science Institute. Currently with automated ontology repair in description logics. Also working with opinion dynamics in multi-agent systems.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://josecoliveira.github.io" # the base hostname & protocol for your site
+github_username: josecoliveira
+
+# Hide RSS/Atom feed link from footer
+# Social sharing preview image
+og_image: /assets/images/profile.jpg
+
+atom_feed:
+  hide: true
+
+# Build settings
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
+
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /publications/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# Minimal Mistakes theme settings
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Author
+author:
+  name: "José C. Oliveira"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Ph.D. student in Computer Science at Gran Sasso Science Institute."
+  location: "L'Aquila, Italy"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:josecarlos.deoliveirajr@gssi.it"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/josecoliveira"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0009-0000-2266-0032"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=gd98-_oAAAAJ"
+
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Outputting
+permalink: /:categories/:title/
+# paginate: 5
+# paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - AGENTS.md

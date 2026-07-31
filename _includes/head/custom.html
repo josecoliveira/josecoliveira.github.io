@@ -1,0 +1,46 @@
+<style>
+  .author__avatar img {
+    max-width: 220px !important;
+  }
+
+  /* Reduce main content font size only (not sidebar)
+     Target all text elements to ensure override */
+  .archive,
+  #main > .page,
+  .archive p,
+  .archive li,
+  .archive .item-meta,
+  .archive .project-desc,
+  .page__content,
+  .page__content dt,
+  .page__content dd {
+    font-size: 0.85rem !important;
+  }
+
+  /* Scale headings in main content */
+  .archive h1, #main > .page h1 { font-size: 1.7rem !important; }
+  .archive h2, #main > .page h2 { font-size: 1.4rem !important; }
+  .archive h3, #main > .page h3 { font-size: 1.15rem !important; }
+
+  /* Hide page title on homepage only */
+  .layout--home .page__title {
+    display: none;
+  }
+
+  /* Homepage section titles */
+  .home-title {
+    font-size: 1.2rem !important;
+  }
+  .home-title span {
+    font-size: 1.2rem !important;
+  }
+</style>
+
+<!-- MathJax for LaTeX rendering -->
+<script>
+  MathJax = {
+    tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+    svg: { fontCache: 'global' }
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" async></script>
