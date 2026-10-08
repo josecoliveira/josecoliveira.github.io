@@ -11,7 +11,7 @@ Before starting my Ph.D., I completed an M.Sc. in Computer Science at the [Unive
 
 I received my B.Sc. in Computer Science from the [Universidade Federal de Minas Gerais (UFMG)](https://www.ufmg.br/) (2015–2020). As an undergraduate researcher, under the supervision of [Dr. Mário S. Alvim](mailto:msalvim@dcc.ufmg.br), I worked with subjective logic to improve a formal model for group polarization in social networks, and used the Coq proof assistant for the formalization and verification of software.
 
-My work has been published at the ESSLLI 2022 Student Session and at [EKAW 2026](/publications/ekaw26/), and I develop open-source tools for the research community, including `akvmodel`, a simulator for the Alvim-Knight-Valencia social network model, and `kg2`, a model checker for Paraconsistent Gödel Modal Logic.
+My work has been published at the ESSLLI 2022 Student Session and at EKAW 2026, and I develop open-source tools for the research community, including `akvmodel`, a simulator for the Alvim-Knight-Valencia social network model, and `kg2`, an implementation for Paraconsistent Gödel Modal Logic models.
 
 ## Interests
 
