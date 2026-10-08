@@ -4,6 +4,8 @@ title: "TA Guide: Automata & Formal Languages"
 permalink: /teaching/ta-guide/
 author_profile: true
 description: "A practical guide for new teaching assistants (TAs) in Automata & Formal Languages: grading workflows, office hours strategies, and academic integrity policies."
+toc: true
+toc_sticky: true
 ---
 
 This is a pratical guide for new teaching assistants (TAs) in the course *Automata & Formal Languages*. It covers grading workflows, office hours strategies, and academic integrity policies. It is based on my experience as a Graduate Teaching Assistant at the [University of Minnesota Duluth](/teaching/). The goal is to maintain high academic standards, ensure student comprehension, and maintain integrity and transparency during the course. It is also inspired by [Mário S. Alvim's Teaching Principles](https://msalvimjr.github.io/webpage-dcc/faqs/teaching-grading/).
@@ -72,7 +74,7 @@ Sometimes I forget to look into some submissions before I define the rubric. Man
 
 ---
 
-### Disclaimers & Licensing
+## Disclaimers & Licensing
 
 **Notice on Content Generation:** This guide was developed with the assistance of a generative AI model (Gemini). The core principles, workflows, and policies are derived from my personal experience as a Graduate Teaching Assistant at the **University of Minnesota Duluth**. I assume full responsibility for the methodology and content.
 
