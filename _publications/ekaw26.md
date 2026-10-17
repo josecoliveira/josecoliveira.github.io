@@ -1,6 +1,6 @@
 ---
 title: "Guiding Ontology Repair with Axiom Weakening and Shapley Inconsistency Values"
-date: 2026-09-30
+date: 2026-10-16
 authors: "José C. Oliveira, Oliver Kutz, Nicolas Troquard"
 venue: "Knowledge Engineering and Knowledge Management - 25th International Conference, EKAW 2026, Turin, Italy, September 29–October 1, 2026, Proceedings"
 pdf_url: "https://www.dropbox.com/scl/fi/8wt5y9r0x982ltdhum4tg/Oliveira-et-al.-2026-Guiding-Ontology-Repair-with-Axiom-Weakening-and-Shapley-Inconsistency-Values.pdf?rlkey=epspg8he456qf76otie35x127&st=vb7idm68&dl=0"
@@ -11,7 +11,7 @@ doi_url: "https://doi.org/10.1007/978-3-032-41614-8_12"
 
 Knowledge Engineering and Knowledge Management - 25th International Conference, EKAW 2026, Turin, Italy, September 29–October 1, 2026, Proceedings.
 
-[PDF]({{ page.pdf_url }}) \| [DOI]({{ page.doi_url }}) \| [Back to Publications](/publications/)
+[PDF (Accepted draft)]({{ page.pdf_url }}) \| [DOI]({{ page.doi_url }}) \| [Cite](/assets/bib/ekaw26.bib) \| [Back to Publications](/publications/)
 
 ## Abstract
 
